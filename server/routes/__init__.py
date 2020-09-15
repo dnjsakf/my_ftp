@@ -1,0 +1,1 @@
+from server.routes.index import app as route_index
